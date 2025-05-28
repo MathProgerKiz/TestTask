@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+.pytest_cache
+patest.ini
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# dotenv / secrets
+*.env
+.env.*
+
+# VS Code / PyCharm
+.vscode/
+
+
+# macOS / Linux
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage / test reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# pytest
+.pytest_cache/
+
+# mypy / pylint / flake8
+.mypy_cache/
+.dmypy.json
+.pyre/
+__pypackages__/
+
+# Django specific
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Docker
+*.pid
+*.tar
+*.img
+docker-compose.override.yml
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Local configuration
+*.local
+*.iml
+
+# Obsidian (если используешь)
+.obsidian/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid

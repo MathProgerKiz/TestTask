@@ -1,0 +1,27 @@
+{
+    "Marketing": [
+        {
+            "name": "Alice Johnson",
+            "email": "alice@example.com",
+            "hours_worked": 160.0,
+            "hourly_rate": 50.0,
+            "salary": 8000.0
+        }
+    ],
+    "Design": [
+        {
+            "name": "Bob Smith",
+            "email": "bob@example.com",
+            "hours_worked": 150.0,
+            "hourly_rate": 40.0,
+            "salary": 6000.0
+        },
+        {
+            "name": "Carol Williams",
+            "email": "carol@example.com",
+            "hours_worked": 170.0,
+            "hourly_rate": 60.0,
+            "salary": 10200.0
+        }
+    ]
+}
